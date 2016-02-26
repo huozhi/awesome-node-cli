@@ -8,10 +8,10 @@ Awesome Node CLI List
 
 ## Contents
 
-[cash](https://github.com/dthree/cash)
-[nrm](https://github.com/Pana/nrm)
-[lebab](https://github.com/mohebifar/lebab)
-[parker](https://github.com/katiefenn/parker)
-[diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
-[devtool](https://github.com/Jam3/devtool)
+- [cash](https://github.com/dthree/cash)
+- [nrm](https://github.com/Pana/nrm)
+- [lebab](https://github.com/mohebifar/lebab)
+- [parker](https://github.com/katiefenn/parker)
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+- [devtool](https://github.com/Jam3/devtool)
 
