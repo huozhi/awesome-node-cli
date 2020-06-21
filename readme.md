@@ -4,8 +4,6 @@ Awesome Node CLI List
 
 - [What is an awesome list?](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
--
-
 ## Contents
 
 - [cash](https://github.com/dthree/cash)
