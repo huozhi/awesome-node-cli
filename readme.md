@@ -17,3 +17,5 @@ Awesome Node CLI List
 - [http-server](https://github.com/http-party/http-server) Local HTTP Server
 - [ngrok](https://github.com/bubenshchykov/ngrok) Tunnel Server
 - [terminal-image-cli](https://github.com/sindresorhus/terminal-image-cli) Display Image in Terminal
+
+- [supercli](https://github.com/javimosch/supercli) Universal CLI runtime with 7,000+ plugins. One command pattern, JSON-by-default output, agent-native discovery.
