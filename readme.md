@@ -6,6 +6,7 @@ Awesome Node CLI List
 
 ## Contents
 
+- [ai-commit-pro](https://github.com/ikedalef/ai-commit-tool) Auto-generate conventional git commit messages with Edge AI
 - [cash](https://github.com/dthree/cash)
 - [nrm](https://github.com/Pana/nrm)
 - [lebab](https://github.com/mohebifar/lebab)
